@@ -50,7 +50,7 @@ main {
 
 .btn {
     padding: .5rem;
-    background-color: transparent;
+    background-color: #ffffff8a;
     outline: none;
     border: 0;
 
@@ -95,7 +95,7 @@ main {
     align-items: center;
     opacity: 0;
     transition: .4s all;
-    font-family: 'Lacquer', sans-serif;
+    font-family: 'Courgette', cursive;
 }
 
 .quote--visible {
@@ -130,16 +130,6 @@ picture > source, picture > img {
     width: 15rem;
     
 }
-
-/* .signature {
-    height: 40rem;
-    float:right;
-    /* display: none; 
-} 
-
-.signature__path {
-    stroke-dasharray: 20;
-} */
 
 @media only screen and (max-width: 700px) {
     .btn, .quote__text {
